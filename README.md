@@ -20,3 +20,7 @@ npx create-react-native-app -t with-router
 => npm start (to start our expo app)
 => npm install -g expo-cli (to install expo command line interface)
 => expo-cli start --tunnel (???)
+
+
+
+https://www.youtube.com/watch?v=mJ3bGvy0WAY&t=936s
